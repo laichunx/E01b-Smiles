@@ -1,4 +1,10 @@
 # E01b-Smiles
+# Description:
+# The purpose of this assignemnt is let us to test and try how to draw in 
+# java with open_color and arcade. We can adjust the position of each drawing object
+# and create a smile face. Also, we can group all of the objects and adjust the whole
+# graphic in one line. Moreover, the main5.py teach us how to use the mouse motion. 
+
 An exercise exploring variables and loops using Python Arcade.
 
 This repository contains several files that you will need to alter to complete the assignment. The instructions for the exercise are also on Canvas.
